@@ -1,0 +1,31 @@
+/* Set the size of a button */
+button {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+}
+
+/* Every line is styled similarly */
+.line {
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the result display area */
+.result {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#display {
+  min-width: 200px;
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #eee;
+}
+
+/* Align all h1 elements to the center of the page */
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
